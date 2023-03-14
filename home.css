@@ -36,7 +36,7 @@ nav{
 .nav{
 	position: sticky;
 	top: 0;
-	background:linear-gradient(90deg, #f0a637, #d7f12efe);
+	background:linear-gradient(90deg, hotpink, violet);
 	justify-content: space-around;
 }
 
@@ -185,7 +185,7 @@ button:hover{
 }
 
 .container6{
-	background-color: rgb(29, 118, 153);
+	background-color: grey;
 	display: flex;
 	justify-content: space-evenly;
 	padding: 20px;
@@ -211,7 +211,7 @@ a:hover{
 }
 
 .container7{
-	background-color: rgb(10, 97, 132);
+	background-color: black;
 	padding: 20px;
 	color: white;
 	text-align: center;
