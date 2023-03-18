@@ -85,7 +85,7 @@
    .card{
         width: 20%;
         display: inline-block;
-        box-shadow: 2px 2px 20px black;
+        box-shadow: 2px 2px 5px grey;
         border-radius: 5px; 
         margin: 2%;
        }
