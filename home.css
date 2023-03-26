@@ -36,12 +36,12 @@ nav{
 .nav{
 	position: sticky;
 	top: 0;
-	background:linear-gradient(90deg, hotpink, violet);
+	background:linear-gradient(90deg, #f0a637, #d7f12efe);
 	justify-content: space-around;
 }
 
 .logo{
-	width: 100px;
+	width: 150px;
 	height: 100px;
 	cursor: pointer;
 	margin-left: 25px;
@@ -155,9 +155,9 @@ button:hover{
 }
 
 .wheel{
-	width: 60%;
-	margin-left: 280px;
-	justify-content: space-between;
+	/* width: 60%; */
+	/* margin-left: 280px; */
+	justify-content: space-around;
 }
 
 .container4{
@@ -185,7 +185,7 @@ button:hover{
 }
 
 .container6{
-	background-color: grey;
+	background-color: rgb(29, 118, 153);
 	display: flex;
 	justify-content: space-evenly;
 	padding: 20px;
@@ -211,7 +211,7 @@ a:hover{
 }
 
 .container7{
-	background-color: black;
+	background-color: rgb(10, 97, 132);
 	padding: 20px;
 	color: white;
 	text-align: center;
@@ -254,7 +254,7 @@ i{
 	text-align: center;
 }
   
-.container12 img{
+/* .container12 img{
 	height: 350px;
 	width: 500px;
 }
@@ -265,7 +265,7 @@ i{
 	display: inline-block;
 	width: 30%; 
 	font-size: 18px;
-}
+} */
 
 .container13{
    background-color: aliceblue;
